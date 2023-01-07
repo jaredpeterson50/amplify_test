@@ -1,0 +1,14 @@
+{
+  "resourceName": "todopicture",
+  "policyUUID": "e758d043",
+  "bucketName": "amplifytestc877912972cb436696296cb9ee21c418",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
